@@ -1,0 +1,9 @@
+version = 1
+SPDX-PackageName = "ostler-catalogue"
+SPDX-PackageSupplier = "OpenOstler contributors <https://github.com/openostler>"
+SPDX-PackageDownloadLocation = "https://github.com/openostler/ostler-catalogue"
+
+[[annotations]]
+path = ["**/*.md", "REUSE.toml", ".github/**"]
+SPDX-FileCopyrightText = "2026 OpenOstler contributors"
+SPDX-License-Identifier = "CC-BY-SA-4.0"
